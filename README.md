@@ -85,3 +85,5 @@ Excel Functions:
 - Geographic regions contributing most to sales
 
 - Customer order frequency patterns
+
+Note:- If uploaded excel file is not visible click https://docs.google.com/spreadsheets/d/1iKOVVu2B4FmF1v2UHmTFoyHGPFTmN5gkLpvUA5kJj7o/edit?usp=sharing
